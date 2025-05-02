@@ -104,6 +104,24 @@
 
 ---
 
+## 📌 Діаграма
+
+![image](https://github.com/user-attachments/assets/b8ce1009-6c25-4e3e-bab1-e1e6628ea94f)
+
+---
+
+## Зображення додатку
+
+Було:
+![image](https://github.com/user-attachments/assets/afd04731-b4b8-4eb9-bf04-ed31d6cb6218)
+![image](https://github.com/user-attachments/assets/d3b3850e-59a7-4c6d-9455-b240cc18e563)
+
+Стало:
+![image](https://github.com/user-attachments/assets/0a1c6227-4ff2-4e07-8304-7bb6b0513aea)
+![image](https://github.com/user-attachments/assets/6f2b423c-bcf7-407e-b003-09aad825b8cc)
+
+---
+
 ## 📌 Висновки
 
 Завдяки застосуванню технік рефакторингу, проєкт став:
